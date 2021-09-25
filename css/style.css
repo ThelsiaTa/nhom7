@@ -8,6 +8,7 @@ html, body {
 body {
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-color: #febd58!important; 
 }
 
 article {
